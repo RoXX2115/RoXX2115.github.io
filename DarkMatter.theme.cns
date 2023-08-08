@@ -1,0 +1,21 @@
+/**
+ * @name YFL
+ * @author roxx2115
+ * @version 3.0.0
+ * @description dzwonię do ziomeczków ziomów~
+ * @source https://github.com/DiscordStyles/DarkMatter/
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 16px;
+    --background-image: url('https://i.imgur.com/bo6Lqch.jpg');
+    --home-image: url('https://i.imgur.com/NDeTYVE.png');
+    --background-solid: #0a0505;
+    --background-solid-dark: #1a0909;
+    --background-solid-darker: #300000;
+    --accent: 120, 47, 40;
+    --accent-alt: 120, 47, 40;
+}
