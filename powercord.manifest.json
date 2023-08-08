@@ -1,0 +1,9 @@
+{
+    "name": "YFL",
+    "description": "Dzwonię do ziomeczków ziomów~",
+    "version": "3.0",
+    "author": "RoXX2115",
+    "theme": "YFL.cns",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
